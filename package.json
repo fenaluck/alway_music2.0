@@ -1,0 +1,25 @@
+{
+  "name": "alwaysmusic_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon pool.js"
+  },
+  "repository": {
+    "type": "",
+    "url": ""
+  },
+  "author": "",
+  "license": "",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {
+    "argv": "^0.0.2",
+    "chalk": "^5.0.1",
+    "pg": "^8.7.3"
+  }
+}
